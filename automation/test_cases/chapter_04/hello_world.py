@@ -1,4 +1,4 @@
-from automation.tests.base_test import BaseTest
+from automation.test_cases.base_test import BaseTest
 
 
 class HelloWorldTest(BaseTest):
